@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### 
 <a href="https://www.linkedin.com/in/juanpablo-moyano/">
-</a><img src="https://komarev.com/ghpvc/?username=luigi3357&label=Profile%20views&color=0e75b6&style=flat" alt="luigi3357" /> </p>
+</a></p>
 <h3>  Mis tecnologías son HTML , CSS , JavaScript , Sequelize , PostgreSQL , Node js , Express , React , Redux , Git , React- Native, Native-Base, GitHub.
 ### Technical skills:  
 <p align="center">
